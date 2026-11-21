@@ -20,11 +20,35 @@
     "maxTotal": 4
   },
   "days": {
+    "2026-12-01": {
+      "baseTwoAdults": 70
+    },
+    "2026-12-02": {
+      "baseTwoAdults": 70
+    },
+    "2026-12-03": {
+      "baseTwoAdults": 70
+    },
     "2026-12-04": {
       "baseTwoAdults": 86
     },
     "2026-12-05": {
       "baseTwoAdults": 86
+    },
+    "2026-12-06": {
+      "baseTwoAdults": 70
+    },
+    "2026-12-07": {
+      "baseTwoAdults": 70
+    },
+    "2026-12-08": {
+      "baseTwoAdults": 70
+    },
+    "2026-12-09": {
+      "baseTwoAdults": 70
+    },
+    "2026-12-10": {
+      "baseTwoAdults": 70
     },
     "2026-12-11": {
       "baseTwoAdults": 86
@@ -32,11 +56,29 @@
     "2026-12-12": {
       "baseTwoAdults": 86
     },
+    "2026-12-13": {
+      "baseTwoAdults": 70
+    },
+    "2026-12-14": {
+      "baseTwoAdults": 70
+    },
+    "2026-12-15": {
+      "baseTwoAdults": 70
+    },
+    "2026-12-16": {
+      "baseTwoAdults": 70
+    },
+    "2026-12-17": {
+      "baseTwoAdults": 70
+    },
     "2026-12-18": {
       "baseTwoAdults": 86
     },
     "2026-12-19": {
       "baseTwoAdults": 86
+    },
+    "2026-12-20": {
+      "baseTwoAdults": 70
     },
     "2027-01-10": {
       "baseTwoAdults": 65
