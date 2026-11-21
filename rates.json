@@ -1,10 +1,9 @@
 {
   "schemaVersion": 1,
   "currency": "EUR",
-  "status": "unconfigured",
-  "description": "Base price for two adults for each date. One adult -10%; three adults +16%; four adults GP-Apt +22%. Children 0-11 free; ages 12-17 +9 EUR per child per night. Total max 4 guests.",
-  "days": {},
+  "status": "active",
   "rateModel": "two_adults_base_v1",
+  "description": "Two-adult base price per night. Adult multipliers 0.90/1.00/1.16/1.22; child 0-11 free; age 12-17 +9 EUR nightly. Final booking requires host confirmation.",
   "adultMultipliers": {
     "1": 0.9,
     "2": 1,
@@ -19,5 +18,202 @@
     "maxAdults": 4,
     "maxChildren": 3,
     "maxTotal": 4
+  },
+  "days": {
+    "2027-01-10": {
+      "baseTwoAdults": 65
+    },
+    "2027-01-11": {
+      "baseTwoAdults": 65
+    },
+    "2027-01-12": {
+      "baseTwoAdults": 65
+    },
+    "2027-01-13": {
+      "baseTwoAdults": 65
+    },
+    "2027-01-14": {
+      "baseTwoAdults": 65
+    },
+    "2027-01-17": {
+      "baseTwoAdults": 65
+    },
+    "2027-01-18": {
+      "baseTwoAdults": 65
+    },
+    "2027-01-19": {
+      "baseTwoAdults": 65
+    },
+    "2027-01-20": {
+      "baseTwoAdults": 65
+    },
+    "2027-01-21": {
+      "baseTwoAdults": 65
+    },
+    "2027-01-24": {
+      "baseTwoAdults": 65
+    },
+    "2027-01-25": {
+      "baseTwoAdults": 65
+    },
+    "2027-01-26": {
+      "baseTwoAdults": 65
+    },
+    "2027-01-27": {
+      "baseTwoAdults": 65
+    },
+    "2027-01-28": {
+      "baseTwoAdults": 65
+    },
+    "2027-01-31": {
+      "baseTwoAdults": 65
+    },
+    "2027-02-01": {
+      "baseTwoAdults": 65
+    },
+    "2027-02-02": {
+      "baseTwoAdults": 65
+    },
+    "2027-02-03": {
+      "baseTwoAdults": 65
+    },
+    "2027-02-04": {
+      "baseTwoAdults": 65
+    },
+    "2027-02-07": {
+      "baseTwoAdults": 65
+    },
+    "2027-02-08": {
+      "baseTwoAdults": 65
+    },
+    "2027-02-09": {
+      "baseTwoAdults": 65
+    },
+    "2027-02-10": {
+      "baseTwoAdults": 65
+    },
+    "2027-02-11": {
+      "baseTwoAdults": 65
+    },
+    "2027-02-14": {
+      "baseTwoAdults": 65
+    },
+    "2027-02-15": {
+      "baseTwoAdults": 65
+    },
+    "2027-02-16": {
+      "baseTwoAdults": 65
+    },
+    "2027-02-17": {
+      "baseTwoAdults": 65
+    },
+    "2027-02-18": {
+      "baseTwoAdults": 65
+    },
+    "2027-02-21": {
+      "baseTwoAdults": 65
+    },
+    "2027-02-22": {
+      "baseTwoAdults": 65
+    },
+    "2027-02-23": {
+      "baseTwoAdults": 65
+    },
+    "2027-02-24": {
+      "baseTwoAdults": 65
+    },
+    "2027-02-25": {
+      "baseTwoAdults": 65
+    },
+    "2027-02-28": {
+      "baseTwoAdults": 65
+    },
+    "2027-03-01": {
+      "baseTwoAdults": 65
+    },
+    "2027-03-02": {
+      "baseTwoAdults": 65
+    },
+    "2027-03-03": {
+      "baseTwoAdults": 65
+    },
+    "2027-03-04": {
+      "baseTwoAdults": 65
+    },
+    "2027-03-07": {
+      "baseTwoAdults": 65
+    },
+    "2027-03-08": {
+      "baseTwoAdults": 65
+    },
+    "2027-03-09": {
+      "baseTwoAdults": 65
+    },
+    "2027-03-10": {
+      "baseTwoAdults": 65
+    },
+    "2027-03-11": {
+      "baseTwoAdults": 65
+    },
+    "2027-03-14": {
+      "baseTwoAdults": 65
+    },
+    "2027-03-15": {
+      "baseTwoAdults": 65
+    },
+    "2027-03-16": {
+      "baseTwoAdults": 65
+    },
+    "2027-03-17": {
+      "baseTwoAdults": 65
+    },
+    "2027-03-18": {
+      "baseTwoAdults": 65
+    },
+    "2027-03-21": {
+      "baseTwoAdults": 65
+    },
+    "2027-03-22": {
+      "baseTwoAdults": 65
+    },
+    "2027-03-23": {
+      "baseTwoAdults": 65
+    },
+    "2027-03-24": {
+      "baseTwoAdults": 65
+    },
+    "2027-03-25": {
+      "baseTwoAdults": 65
+    },
+    "2027-03-28": {
+      "baseTwoAdults": 65
+    },
+    "2027-03-29": {
+      "baseTwoAdults": 65
+    },
+    "2027-03-30": {
+      "baseTwoAdults": 65
+    },
+    "2027-03-31": {
+      "baseTwoAdults": 65
+    },
+    "2027-04-01": {
+      "baseTwoAdults": 65
+    },
+    "2027-04-04": {
+      "baseTwoAdults": 65
+    },
+    "2027-04-05": {
+      "baseTwoAdults": 65
+    },
+    "2027-04-06": {
+      "baseTwoAdults": 65
+    },
+    "2027-04-07": {
+      "baseTwoAdults": 65
+    },
+    "2027-04-08": {
+      "baseTwoAdults": 65
+    }
   }
 }
