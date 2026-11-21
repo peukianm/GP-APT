@@ -20,6 +20,18 @@
     "maxTotal": 4
   },
   "days": {
+    "2026-11-21": {
+      "baseTwoAdults": 80
+    },
+    "2026-11-22": {
+      "baseTwoAdults": 80
+    },
+    "2026-11-28": {
+      "baseTwoAdults": 80
+    },
+    "2026-11-29": {
+      "baseTwoAdults": 80
+    },
     "2026-12-01": {
       "baseTwoAdults": 70
     },
