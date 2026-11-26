@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "source": "Booking.com + Airbnb iCal",
-  "lastUpdated": "2026-11-25T20:05:06Z",
-  "horizonDays": 1498,
-  "horizonStartDate": "2026-11-25",
+  "lastUpdated": "2026-11-26T02:45:27Z",
+  "horizonDays": 1497,
+  "horizonStartDate": "2026-11-26",
   "calendarEndDate": "2030-12-31",
   "blockedDates": [
     "2026-11-27",
@@ -453,7 +453,8 @@
     "2028-05-21",
     "2028-05-22",
     "2028-05-23",
-    "2028-05-24"
+    "2028-05-24",
+    "2028-05-25"
   ],
   "notice": "Indicative only. Verify dates and prices on Booking.com or Airbnb."
 }
